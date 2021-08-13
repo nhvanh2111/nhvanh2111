@@ -8,22 +8,20 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Arduno" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png"/>][arduno]
-[<img align="left" alt="C Programing" width="40px" src="https://img.icons8.com/color/452/c-programming.png"/>][c]
-[<img align="left" alt="DotNet" width="40x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGUlyiyZmWuDga3iMQgEqpFMOqKsqse6kkX5rI1PFsYN2QIFJrUw0cA50IRNZmIvuFF4&usqp=CAU"/>][dotnet]
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
-[<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
-[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][react]
-[<img align="left" alt="Java" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/>][java]
-[<img align="left" alt="SQL" width="50px" src="https://e7.pngegg.com/pngimages/747/345/png-clipart-microsoft-sql-server-logo-database-microsoft-corporation-sql-logo-angle-text.png"/>][sql]
-[<img align="left" alt="MySQL" width="50px" src="https://www.itcweb.net/Uploads/Phan-mem/mysql.png"/>][mysql]
-[<img align="left" alt="Selenium" width="45px" src="https://huongdanjava.com/wp-content/uploads/2019/02/selenium.png"/>][selenium]
-[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
-[<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
+[<img alt="Arduno" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png"/>][arduno]
+[<img alt="C Programing" width="45px" src="https://img.icons8.com/color/452/c-programming.png"/>][c]
+[<img alt="DotNet" width="45x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGUlyiyZmWuDga3iMQgEqpFMOqKsqse6kkX5rI1PFsYN2QIFJrUw0cA50IRNZmIvuFF4&usqp=CAU"/>][dotnet]
+[<img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
+[<img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
+[<img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
+[<img alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][react]
+[<img alt="Java" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/>][java]
+[<img alt="SQL" width="50px" src="https://e7.pngegg.com/pngimages/747/345/png-clipart-microsoft-sql-server-logo-database-microsoft-corporation-sql-logo-angle-text.png"/>][sql]
+[<img alt="MySQL" width="50px" src="https://www.itcweb.net/Uploads/Phan-mem/mysql.png"/>][mysql]
+[<img alt="Selenium" width="45px" src="https://huongdanjava.com/wp-content/uploads/2019/02/selenium.png"/>][selenium]
+[<img alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
+[<img alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
 
-<br />
-<br />
 <br />
 <!---
 nhvanh2111/nhvanh2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
