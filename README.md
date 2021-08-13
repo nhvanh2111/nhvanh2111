@@ -8,11 +8,11 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Arduno" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png"/>][arduno]
-[<img align="left" alt="C Programing" width="45px" src="https://img.icons8.com/color/452/c-programming.png"/>][c]
-[<img align="left" alt="DotNet" width="45x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGUlyiyZmWuDga3iMQgEqpFMOqKsqse6kkX5rI1PFsYN2QIFJrUw0cA50IRNZmIvuFF4&usqp=CAU"/>][dotnet]
-[<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
-[<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
+[<img align="left" alt="Arduno" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png"/>][arduno]
+[<img align="left" alt="C Programing" width="40px" src="https://img.icons8.com/color/452/c-programming.png"/>][c]
+[<img align="left" alt="DotNet" width="40x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcGUlyiyZmWuDga3iMQgEqpFMOqKsqse6kkX5rI1PFsYN2QIFJrUw0cA50IRNZmIvuFF4&usqp=CAU"/>][dotnet]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html5]
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
 [<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][react]
 [<img align="left" alt="Java" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/>][java]
