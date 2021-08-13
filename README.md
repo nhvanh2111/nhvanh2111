@@ -25,7 +25,7 @@
 
 #### Connect me via
 [My Facebook](https://www.facebook.com/profile.php?id=100006399702131)  
-[My Email](nhvanh2111@gmail.com)
+[My Email](mailto: nhvanh2111@gmail.com)
 <!---
 nhvanh2111/nhvanh2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
