@@ -1,9 +1,9 @@
 
 # <p align="center"> Hi there, I'm Van Anh 👋 </p>
 
-## <p align="center"> I'm a student and passionate frontend developer from VietNam !! </p>
+## <p align="center"> I'm a passionate software engineer from VietNam !! </p>
 
-- 🌱 I’m currently learning Node.js and Sass
+- 🌱 I’m currently learning Futter.
 - 📫 Reach me at nhvanh2111@gmail.com
 
 ## Languages and Tools:
